@@ -4,3 +4,4 @@ function addingEventListener() {
         alert('Button was clicked!');
     });
 }
+
